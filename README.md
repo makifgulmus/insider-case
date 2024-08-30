@@ -1,0 +1,1 @@
+Simple task for Insider QA team, built with Java, Selenium and TestNG. 
